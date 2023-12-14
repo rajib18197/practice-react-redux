@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "M1 Macbook Pro",
+      "category": "Laptop",
+      "company": "apple",
+      "image": "https://images.unsplash.com/photo-1639006570490-79c0c53f1080?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "price": 250,
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "name": "rolex gold",
+      "category": "Luxury watch",
+      "company": "rolex",
+      "image": "https://images.pexels.com/photos/12964186/pexels-photo-12964186.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 1200,
+      "quantity": 20,
+      "id": 2
+    }
+  ]
+}

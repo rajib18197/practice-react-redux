@@ -1,0 +1,334 @@
+{
+  "cabins": [
+    {
+      "cabinName": "Cozy Retreat",
+      "maxCapacity": 4,
+      "discount": 10,
+      "price": 150
+    },
+    {
+      "cabinName": "Mountain Hideaway",
+      "maxCapacity": 6,
+      "discount": 15,
+      "price": 200
+    },
+    {
+      "cabinName": "Lakeside Oasis",
+      "maxCapacity": 8,
+      "discount": 20,
+      "price": 250
+    },
+    {
+      "cabinName": "Forest Haven",
+      "maxCapacity": 5,
+      "discount": 12,
+      "price": 180
+    },
+    {
+      "cabinName": "Rustic Lodge",
+      "maxCapacity": 10,
+      "discount": 0,
+      "price": 300
+    },
+    {
+      "cabinName": "Woodland Cabin",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 190
+    },
+    {
+      "cabinName": "Riverfront Retreat",
+      "maxCapacity": 4,
+      "discount": 10,
+      "price": 160
+    },
+    {
+      "cabinName": "Mountain View Chalet",
+      "maxCapacity": 12,
+      "discount": 30,
+      "price": 350
+    },
+    {
+      "cabinName": "Tranquil Pines",
+      "maxCapacity": 6,
+      "discount": 18,
+      "price": 220
+    },
+    {
+      "cabinName": "Creek Side Lodge",
+      "maxCapacity": 8,
+      "discount": 22,
+      "price": 260
+    },
+    {
+      "cabinName": "Secluded Wilderness",
+      "maxCapacity": 4,
+      "discount": 10,
+      "price": 150
+    },
+    {
+      "cabinName": "Lakefront Paradise",
+      "maxCapacity": 10,
+      "discount": 28,
+      "price": 320
+    },
+    {
+      "cabinName": "Hilltop Haven",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 190
+    },
+    {
+      "cabinName": "Riverside Cabin",
+      "maxCapacity": 5,
+      "discount": 14,
+      "price": 170
+    },
+    {
+      "cabinName": "Alpine Lodge",
+      "maxCapacity": 10,
+      "discount": 25,
+      "price": 290
+    },
+    {
+      "cabinName": "Meadowside Getaway",
+      "maxCapacity": 8,
+      "discount": 20,
+      "price": 240
+    },
+    {
+      "cabinName": "Countryside Cottage",
+      "maxCapacity": 4,
+      "discount": 0,
+      "price": 160
+    },
+    {
+      "cabinName": "Lakeview Chalet",
+      "maxCapacity": 12,
+      "discount": 32,
+      "price": 370
+    },
+    {
+      "cabinName": "Sunset Ridge Retreat",
+      "maxCapacity": 6,
+      "discount": 14,
+      "price": 200
+    },
+    {
+      "cabinName": "Misty Mountainside",
+      "maxCapacity": 8,
+      "discount": 0,
+      "price": 250
+    },
+    {
+      "cabinName": "Wilderness Oasis",
+      "maxCapacity": 4,
+      "discount": 10,
+      "price": 140
+    },
+    {
+      "cabinName": "Valley View Lodge",
+      "maxCapacity": 10,
+      "discount": 0,
+      "price": 310
+    },
+    {
+      "cabinName": "Pine Forest Hideout",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 180
+    },
+    {
+      "cabinName": "Riverbend Retreat",
+      "maxCapacity": 5,
+      "discount": 13,
+      "price": 160
+    },
+    {
+      "cabinName": "Snowy Peaks Chalet",
+      "maxCapacity": 12,
+      "discount": 30,
+      "price": 340
+    },
+    {
+      "cabinName": "Tranquil Waterside",
+      "maxCapacity": 6,
+      "discount": 17,
+      "price": 210
+    },
+    {
+      "cabinName": "Rustic Mountain Cabin",
+      "maxCapacity": 8,
+      "discount": 0,
+      "price": 270
+    },
+    {
+      "cabinName": "Serenity Cottage",
+      "maxCapacity": 4,
+      "discount": 0,
+      "price": 160
+    },
+    {
+      "cabinName": "Lakeside Lodge",
+      "maxCapacity": 10,
+      "discount": 26,
+      "price": 300
+    },
+    {
+      "cabinName": "Piney Retreat",
+      "maxCapacity": 6,
+      "discount": 15,
+      "price": 190
+    },
+    {
+      "cabinName": "Waterfront Haven",
+      "maxCapacity": 5,
+      "discount": 13,
+      "price": 170
+    },
+    {
+      "cabinName": "Wooded Sanctuary",
+      "maxCapacity": 8,
+      "discount": 22,
+      "price": 260
+    },
+    {
+      "cabinName": "Alpenglow Chalet",
+      "maxCapacity": 12,
+      "discount": 31,
+      "price": 360
+    },
+    {
+      "cabinName": "Majestic Mountainview",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 200
+    },
+    {
+      "cabinName": "Forest Edge Cottage",
+      "maxCapacity": 4,
+      "discount": 11,
+      "price": 150
+    },
+    {
+      "cabinName": "Lakeshore Bliss",
+      "maxCapacity": 10,
+      "discount": 25,
+      "price": 290
+    },
+    {
+      "cabinName": "Sunset Valley Lodge",
+      "maxCapacity": 8,
+      "discount": 20,
+      "price": 230
+    },
+    {
+      "cabinName": "Mountain Breeze Retreat",
+      "maxCapacity": 5,
+      "discount": 14,
+      "price": 170
+    },
+    {
+      "cabinName": "Riverside Haven",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 190
+    },
+    {
+      "cabinName": "Tranquil Wilderness Escape",
+      "maxCapacity": 4,
+      "discount": 12,
+      "price": 160
+    },
+    {
+      "cabinName": "Mountain Vista Chalet",
+      "maxCapacity": 12,
+      "discount": 29,
+      "price": 350
+    },
+    {
+      "cabinName": "Woodland Serenity",
+      "maxCapacity": 6,
+      "discount": 17,
+      "price": 210
+    },
+    {
+      "cabinName": "Lakefront Retreat",
+      "maxCapacity": 8,
+      "discount": 22,
+      "price": 260
+    },
+    {
+      "cabinName": "Cedarwood Cabin",
+      "maxCapacity": 4,
+      "discount": 11,
+      "price": 160
+    },
+    {
+      "cabinName": "Wildflower Haven",
+      "maxCapacity": 10,
+      "discount": 0,
+      "price": 310
+    },
+    {
+      "cabinName": "Rustic River Lodge",
+      "maxCapacity": 6,
+      "discount": 16,
+      "price": 190
+    },
+    {
+      "cabinName": "Misty Forest Chalet",
+      "maxCapacity": 5,
+      "discount": 0,
+      "price": 170
+    },
+    {
+      "cabinName": "Whispering Pines Retreat",
+      "maxCapacity": 8,
+      "discount": 20,
+      "price": 240
+    },
+    {
+      "cabinName": "Lakeview Hideaway",
+      "maxCapacity": 4,
+      "discount": 12,
+      "price": 160
+    },
+    {
+      "cabinName": "Hillside Oasis",
+      "maxCapacity": 10,
+      "discount": 25,
+      "price": 290
+    },
+    {
+      "cabinName": "Wooded Mountain Lodge",
+      "maxCapacity": 6,
+      "discount": 15,
+      "price": 190
+    },
+    {
+      "cabinName": "Riverfront Chalet",
+      "maxCapacity": 5,
+      "discount": 13,
+      "price": 170
+    },
+    {
+      "cabinName": "Sunset Serenade Cabin",
+      "maxCapacity": 12,
+      "discount": 0,
+      "price": 340
+    },
+    {
+      "cabinName": "Rustic Waterside Retreat",
+      "maxCapacity": 6,
+      "discount": 0,
+      "price": 200
+    },
+    {
+      "cabinName": "Majestic Valley View",
+      "maxCapacity": 8,
+      "discount": 0,
+      "price": 260
+    }
+  ]
+}

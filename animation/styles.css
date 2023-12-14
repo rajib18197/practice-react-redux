@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #414b53;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 24rem;
+  height: 24rem;
+  background-color: rgb(39, 18, 36);
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  display: grid;
+  grid-template-columns: repeat(16, max-content);
+  /* gap: 2px; */
+}
+
+.box {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: rgb(141, 141, 141);
+  animation: pulsate 1s ease-in infinite alternate;
+  animation-fill-mode: both;
+}
+
+@keyframes pulsate{
+    0%{
+        transform: scale(0);
+        opacity: 0;
+    }
+
+    20%{
+        transform: scale(0.2);
+        opacity: 0.2;
+    }
+
+    40%{
+        transform: scale(0.4);
+        opacity: 0.4;
+    }
+
+    60%{
+        transform: scale(0.6);
+        opacity: .6;
+    }
+
+    80%{
+        transform: scale(.8);
+        opacity: .8;
+    }
+
+    100%{
+        transform: scale(1);
+        opacity: 1;
+        background-color: rgb(255, 255, 255);
+    }
+}
+
+@keyframes pulsate1{
+    0%{
+        transform: scale(0);
+        opacity: 0;
+    }
+
+    20%{
+        transform: scale(0.2);
+        opacity: 0.2;
+    }
+
+    40%{
+        transform: scale(0.4);
+        opacity: 0.4;
+    }
+    100%{
+        transform: scale(.9);
+        opacity: .8;
+        background-color: rgb(122, 122, 122);
+    }
+}
